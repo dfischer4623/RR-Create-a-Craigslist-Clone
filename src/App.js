@@ -10,7 +10,7 @@ import Sidebar from './Components/Sidebar'
 const App = () => {
   return (
     <div>
-      <h1>nickslist</h1>
+      <h1>Dave's List</h1>
       <div className="App">
         <Searchbar />
         <Directory />
