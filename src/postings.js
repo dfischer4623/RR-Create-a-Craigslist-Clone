@@ -22,5 +22,12 @@ export const postings = [
         description: 'You have no idea how hard it is to find a VHS player these days and I have this VHS of dirty dancing from 1987 and I just need to escape to the Catskills with Patrick Swayze so badly right now',
         price: '$6000',
         imageURL: '/assets/dirty_dancing_vhs.jpeg'
+    },
+    {
+        title: 'Buying a VHS player',
+        description: 'You have no idea how hard it is to find a VHS player these days and I have this VHS of dirty dancing from 1987 and I just need to escape to the Catskills with Patrick Swayze so badly right now',
+        price: '$6000',
+        imageURL: '/assets/dirty_dancing_vhs.jpeg'
     }
+    
 ]
